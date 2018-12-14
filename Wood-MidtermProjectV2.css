@@ -1,0 +1,44 @@
+/*
+* Julia Wood
+* November 28, 2018
+* Midterm Project V1
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+    background-color: mistyrose;
+    color: black;
+    font-family: "courier new";
+} 
+
+a:link {
+    color: black;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: darkturquoise;
+    text-decoration: underline;
+}
+
+a:active {
+    color: darkturquoise;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: darkturquoise;
+    text-decoration: underline;
+}
+
+a:focus {
+    color: darkturquoise;
+    text-decoration: underline;
+}
